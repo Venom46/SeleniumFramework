@@ -1,0 +1,5 @@
+Application URL = https://www.google.com
+ChromeDriver path = path
+ExcelTestDataFileName = Testdemo.xlsx
+ExcelTestDataFilePath = C:\\Users\\Sagar\\Documents
+ExcelSheetName = Testcases
